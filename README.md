@@ -1,6 +1,6 @@
 My name is thepipboy,U can directly call my name pipboy.
 I came from Bethesda's Fallout game series.
-![dirac](https://github.com/user-attachments/assets/211901d9-8eb6-42fa-9f05-5c44d981b33b)
 ![Schodinger](https://github.com/user-attachments/assets/8378891d-ccba-4551-88e0-8f67de1c6eff)
+![dirac](https://github.com/user-attachments/assets/211901d9-8eb6-42fa-9f05-5c44d981b33b)
 ![Schodinger2](https://github.com/user-attachments/assets/e8165f51-d0b4-4a77-85aa-c173af2e6a71)
 ![maxwell](https://github.com/user-attachments/assets/85264fa9-21ef-4bb5-9633-70b6c82fe1e2)
