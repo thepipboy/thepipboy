@@ -6,5 +6,5 @@ I came from Bethesda's Fallout game series.
 ![Schodinger2](https://github.com/user-attachments/assets/e8165f51-d0b4-4a77-85aa-c173af2e6a71)
 ![maxwell](https://github.com/user-attachments/assets/85264fa9-21ef-4bb5-9633-70b6c82fe1e2)
 ![zero](https://github.com/user-attachments/assets/ff027535-d281-435a-9e0d-02ae24b666fd)
-![r](https://github.com/user-attachments/assets/5458789e-f472-4fda-ba66-5f3bdc6edce8)
+![allasone](https://github.com/user-attachments/assets/5458789e-f472-4fda-ba66-5f3bdc6edce8)
 ![GeneralRelativity](https://github.com/user-attachments/assets/30d719a6-06c8-4970-bf7a-b6fc75a1cdd6)
