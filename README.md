@@ -9,6 +9,7 @@ I came from Bethesda's Fallout game series.
 ![allasone](https://github.com/user-attachments/assets/5458789e-f472-4fda-ba66-5f3bdc6edce8)
 ![GeneralRelativity](https://github.com/user-attachments/assets/30d719a6-06c8-4970-bf7a-b6fc75a1cdd6)
 ![NewtonSecondLaw](https://github.com/user-attachments/assets/8f2788ac-2362-49ab-8be9-a82e1d43989b)
-![39ca85f04eaf149012ca9e2ccaf50a11](https://github.com/user-attachments/assets/572858c8-c333-4c34-829a-5033f4ce5a52)
-![4dac0fcb4eb5e8593ecdf726a0327b55](https://github.com/user-attachments/assets/c313ebb0-717a-47d7-a77b-c4b667feeeae)
+![S](https://github.com/user-attachments/assets/572858c8-c333-4c34-829a-5033f4ce5a52)
+![T](https://github.com/user-attachments/assets/c313ebb0-717a-47d7-a77b-c4b667feeeae)
+![image](https://github.com/user-attachments/assets/bf632ee8-279b-4fda-bc04-a5de0b7c2f21)
 
