@@ -12,4 +12,6 @@ I came from Bethesda's Fallout game series.
 ![S](https://github.com/user-attachments/assets/572858c8-c333-4c34-829a-5033f4ce5a52)
 ![T](https://github.com/user-attachments/assets/c313ebb0-717a-47d7-a77b-c4b667feeeae)
 ![image](https://github.com/user-attachments/assets/bf632ee8-279b-4fda-bc04-a5de0b7c2f21)
+![diagram](https://github.com/user-attachments/assets/d186799b-e790-4e51-bba0-9698f90ccb7f)
+
 
