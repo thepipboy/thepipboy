@@ -12,3 +12,4 @@
 ![image](https://github.com/user-attachments/assets/bf632ee8-279b-4fda-bc04-a5de0b7c2f21)
 ![diagram](https://github.com/user-attachments/assets/d186799b-e790-4e51-bba0-9698f90ccb7f)
 ![Physics](https://github.com/user-attachments/assets/4dc2b005-e59b-4d8f-bc74-566605b35b8b)
+![JOJO](https://github.com/user-attachments/assets/33127498-e0c9-452e-83d4-eea9b13bd086)
