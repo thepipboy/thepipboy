@@ -13,6 +13,7 @@
 <img width="130" alt="Relation" src="https://github.com/user-attachments/assets/43456507-dd9d-4750-983b-2d08859178ff" />
 <img width="148" alt="Doppler" src="https://github.com/user-attachments/assets/ab4237c7-2abe-40ea-b81d-386ad50f26f8" />
 <img width="183" alt="4D" src="https://github.com/user-attachments/assets/133a42ea-51d0-4a77-94fc-18978c93ae55" />
+<img width="227" alt="ST" src="https://github.com/user-attachments/assets/29fd603a-c04b-4a57-ac0b-50e800bdb74f" />
+<img width="381" alt="Blackhole" src="https://github.com/user-attachments/assets/f30b2683-2151-404e-8414-1a0be9cad6dd" />
 <img width="450" alt="diagram" src="https://github.com/user-attachments/assets/369c61ba-d9c2-4511-95aa-2161b2952170" />
-![Physics](https://github.com/user-attachments/assets/4dc2b005-e59b-4d8f-bc74-566605b35b8b)
-![JOJO](https://github.com/user-attachments/assets/33127498-e0c9-452e-83d4-eea9b13bd086)
+
