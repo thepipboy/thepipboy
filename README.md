@@ -7,6 +7,7 @@
 ![allasone](https://github.com/user-attachments/assets/5458789e-f472-4fda-ba66-5f3bdc6edce8)
 ![GeneralRelativity](https://github.com/user-attachments/assets/30d719a6-06c8-4970-bf7a-b6fc75a1cdd6)
 ![NewtonSecondLaw](https://github.com/user-attachments/assets/8f2788ac-2362-49ab-8be9-a82e1d43989b)
+<img width="381" alt="Blackhole" src="https://github.com/user-attachments/assets/f30b2683-2151-404e-8414-1a0be9cad6dd" />
 <img width="83" alt="relativity" src="https://github.com/user-attachments/assets/f32abe24-beda-46c0-a6b4-ce07914d3767" />
 <img width="85" alt="velocity" src="https://github.com/user-attachments/assets/3f3e34e0-380a-4040-a5d1-fbe799aa570d" />
 <img width="114" alt="Lorentz" src="https://github.com/user-attachments/assets/0f4c2184-e6c8-4309-b311-b9b5111790cc" />
@@ -17,6 +18,5 @@
 <img width="148" alt="Doppler" src="https://github.com/user-attachments/assets/ab4237c7-2abe-40ea-b81d-386ad50f26f8" />
 <img width="183" alt="4D" src="https://github.com/user-attachments/assets/133a42ea-51d0-4a77-94fc-18978c93ae55" />
 <img width="227" alt="ST" src="https://github.com/user-attachments/assets/29fd603a-c04b-4a57-ac0b-50e800bdb74f" />
-<img width="381" alt="Blackhole" src="https://github.com/user-attachments/assets/f30b2683-2151-404e-8414-1a0be9cad6dd" />
 <img width="450" alt="diagram" src="https://github.com/user-attachments/assets/369c61ba-d9c2-4511-95aa-2161b2952170" />
 
