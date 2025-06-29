@@ -9,6 +9,12 @@
 ![NewtonSecondLaw](https://github.com/user-attachments/assets/8f2788ac-2362-49ab-8be9-a82e1d43989b)
 ![S](https://github.com/user-attachments/assets/572858c8-c333-4c34-829a-5033f4ce5a52)
 ![T](https://github.com/user-attachments/assets/c313ebb0-717a-47d7-a77b-c4b667feeeae)
+<img width="83" alt="relativity" src="https://github.com/user-attachments/assets/f32abe24-beda-46c0-a6b4-ce07914d3767" />
+<img width="85" alt="velocity" src="https://github.com/user-attachments/assets/3f3e34e0-380a-4040-a5d1-fbe799aa570d" />
+<img width="114" alt="Lorentz" src="https://github.com/user-attachments/assets/0f4c2184-e6c8-4309-b311-b9b5111790cc" />
+<img width="130" alt="Relation" src="https://github.com/user-attachments/assets/43456507-dd9d-4750-983b-2d08859178ff" />
+<img width="148" alt="Doppler" src="https://github.com/user-attachments/assets/ab4237c7-2abe-40ea-b81d-386ad50f26f8" />
+<img width="183" alt="4D" src="https://github.com/user-attachments/assets/133a42ea-51d0-4a77-94fc-18978c93ae55" />
 ![image](https://github.com/user-attachments/assets/bf632ee8-279b-4fda-bc04-a5de0b7c2f21)
 ![diagram](https://github.com/user-attachments/assets/d186799b-e790-4e51-bba0-9698f90ccb7f)
 ![Physics](https://github.com/user-attachments/assets/4dc2b005-e59b-4d8f-bc74-566605b35b8b)
