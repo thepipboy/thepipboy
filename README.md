@@ -7,7 +7,6 @@
 ![allasone](https://github.com/user-attachments/assets/5458789e-f472-4fda-ba66-5f3bdc6edce8)
 ![GeneralRelativity](https://github.com/user-attachments/assets/30d719a6-06c8-4970-bf7a-b6fc75a1cdd6)
 ![NewtonSecondLaw](https://github.com/user-attachments/assets/8f2788ac-2362-49ab-8be9-a82e1d43989b)
-<img width="381" alt="Blackhole" src="https://github.com/user-attachments/assets/f30b2683-2151-404e-8414-1a0be9cad6dd" />
 <img width="83" alt="relativity" src="https://github.com/user-attachments/assets/f32abe24-beda-46c0-a6b4-ce07914d3767" />
 <img width="85" alt="velocity" src="https://github.com/user-attachments/assets/3f3e34e0-380a-4040-a5d1-fbe799aa570d" />
 <img width="114" alt="Lorentz" src="https://github.com/user-attachments/assets/0f4c2184-e6c8-4309-b311-b9b5111790cc" />
