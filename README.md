@@ -17,7 +17,10 @@
 <img width="130" alt="Relation" src="https://github.com/user-attachments/assets/43456507-dd9d-4750-983b-2d08859178ff" />
 <img width="138" alt="Shannon" src="https://github.com/user-attachments/assets/ac791d34-f7ef-4167-ba4d-edc356df1cd4" />
 <img width="148" alt="Doppler" src="https://github.com/user-attachments/assets/ab4237c7-2abe-40ea-b81d-386ad50f26f8" />
+<img width="150" alt="Sym" src="https://github.com/user-attachments/assets/294be9ae-87b3-42db-a944-40e733631f52" />
 <img width="183" alt="4D" src="https://github.com/user-attachments/assets/133a42ea-51d0-4a77-94fc-18978c93ae55" />
+<img width="189" alt="Strength" src="https://github.com/user-attachments/assets/5893a873-7cc9-462a-b780-cf4103502bfc" />
 <img width="227" alt="ST" src="https://github.com/user-attachments/assets/29fd603a-c04b-4a57-ac0b-50e800bdb74f" />
 <img width="231" alt="Kerr" src="https://github.com/user-attachments/assets/1dd75771-0352-474a-8f9c-45503b59ad51" />
 <img width="450" alt="diagram" src="https://github.com/user-attachments/assets/369c61ba-d9c2-4511-95aa-2161b2952170" />
+
